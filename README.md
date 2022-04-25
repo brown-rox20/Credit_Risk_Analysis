@@ -9,9 +9,11 @@ Create and recommend machine learning models to predict credit risk using data p
 ## Results
 
 - Oversampling using `RandomOverSampler` gives a balanced accuracy score of 0.67:
+
   <img src="https://github.com/brown-rox20/Credit_Risk_Analysis/blob/main/assets/images/01_RandomOverSampler.png">
 
   The precision being 0.01 with a recall of 0.74:
+
   <img src="https://github.com/brown-rox20/Credit_Risk_Analysis/blob/main/assets/images/02_precision_and_recall.png">
 
 - Oversampling using `SMOTE` gives a balanced accuracy score of 0.66:
